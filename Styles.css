@@ -1,0 +1,11 @@
+.navbar {
+	height: 80px;
+	background-color: grey;
+	margin-bottom: 20px;
+}
+
+.hero {
+	height: 400px;
+	background-color: grey;
+	margin-bottom: 20px;
+}

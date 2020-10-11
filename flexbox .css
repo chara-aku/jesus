@@ -1,0 +1,16 @@
+.container {
+	background-color: yellow;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: baseline;
+	min-height: 660px;
+}
+
+.container div {
+	height: 200px;
+	width: 200px;
+	background-color: grey;
+	margin: 5px;
+}
